@@ -1,11 +1,11 @@
-const Card = ( ) => {
+const Card = (props ) => {
     return (
         <>
         <div>
             
-            <h3>Titulo do cartão</h3>
-            <p>Lorem ipsum dolor  odio rem reiciendis voluptates quas. Quidem quia veniam quisquam ab impedit architecto tempore iure cum et culpa tenetur, illum veritatis!</p>
-            <a href="#">Link</a>
+            <h3>{props.titulo1}</h3>
+            <p>{props.descricao1}</p>
+            <a href={props.link1} target="_blank">Link</a>
         </div>
 
         </>
