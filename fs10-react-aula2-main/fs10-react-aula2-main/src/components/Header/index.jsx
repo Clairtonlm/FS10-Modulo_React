@@ -25,10 +25,10 @@ const Header = () => {
                             <a href="/sobre">Sobre</a>
                         </li>
                         <li>
-                            <a href="#!">Portifólio</a>
+                            <a href="/Portifolio">Portifólio</a>
                         </li>
                         <li>
-                            <a href="#!">Contatos</a>
+                            <a href="/Contatos">Contatos</a>
                         </li>
                     </ul>
                 </nav>
