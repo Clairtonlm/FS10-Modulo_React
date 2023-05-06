@@ -19,10 +19,10 @@ const Header = () => {
                     }
                     <ul>
                         <li>
-                            <a href="#!">Home</a>
+                            <a href="/">Home</a>
                         </li>
                         <li>
-                            <a href="#!">Sobre</a>
+                            <a href="/sobre">Sobre</a>
                         </li>
                         <li>
                             <a href="#!">Portifólio</a>
