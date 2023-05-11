@@ -13,3 +13,10 @@ main{
   right: 0;
   padding: 60px;
 }
+button{
+  line-height: 50px;
+  padding: 0 26px;
+  background-color: blueviolet;
+  border-radius: 8px;
+  cursor: pointer;
+}
