@@ -16,7 +16,14 @@ main{
 button{
   line-height: 50px;
   padding: 0 26px;
-  background-color: blueviolet;
+  border: 2px solid blueviolet;
   border-radius: 8px;
   cursor: pointer;
+  color: blueviolet;
+  background-color: transparent;
+}
+
+button.active{
+  background-color: blueviolet;
+  color: white;
 }

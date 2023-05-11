@@ -2,7 +2,7 @@ import React from 'react'
 const Portifolio = ()=>{
     return(
         <>
-            <h1>Portiólio</h1>
+            <h1>Portifólio</h1>
         
         
         
